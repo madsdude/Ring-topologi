@@ -19,7 +19,7 @@
     <ul>
         <li><strong>Router R1:</strong> Connected to the WAN via IP <code>185.221.103.72</code>, and internally uses IP <code>192.168.1.2</code>.</li>
         <li><strong>Router R2:</strong> Connected to the WAN via IP <code>185.221.103.70</code>, and internally uses IP <code>192.168.1.3</code>.</li>
-        <li>These routers are linked via a direct connection (shown as <code>192.168.1.1</code>) to ensure internal network redundancy.</li>
+        <li>These routers are linked via a HSRP (shown as <code>192.168.1.1</code>) to ensure internal network redundancy.</li>
     </ul>
 
    <h3>3. Core Switches:</h3>
@@ -32,7 +32,7 @@
         <li>These switches (<code>S-D1</code>, <code>S-D2</code>, <code>S-D3</code>) are connected to the core switches, providing connections to various segments in the network. Each distribution switch has several devices connected (not all shown).</li>
     </ul>
 
-   <h3>5. Access Switches (SW-LAN10, SW-LAN13, SW-LAN14):</h3>
+   <h3>5. Access Switches (SW-LAN-1, SW-LAN-2, SW-LAN-3):</h3>
     <ul>
         <li>These switches (<code>SW-LAN10</code>, <code>SW-LAN13</code>, <code>SW-LAN14</code>) are connected in a loop to the distribution switches. They form part of the ring, ensuring that even if one connection is broken, the network can reroute traffic through another path.</li>
     </ul>
