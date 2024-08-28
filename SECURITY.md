@@ -7,7 +7,7 @@
 
   <ol>
         <li><strong>Do Not Open an Issue:</strong> Please do not open a public issue on GitHub that describes the vulnerability. This could unintentionally reveal the security flaw to others before it has been addressed.</li>
-        <li><strong>Contact Us Directly:</strong> Report the vulnerability by emailing us at <a href="mailto:your.email@example.com">your.email@example.com</a> with the subject "Security Vulnerability in Ring-topology". Include as much detail as possible about the vulnerability, including steps to reproduce it.</li>
+        <li><strong>Contact Us Directly:</strong> Report the vulnerability by emailing us at <a href="mailto:madschurchill@gmail.com">your.email@example.com</a> with the subject "Security Vulnerability in Ring-topology". Include as much detail as possible about the vulnerability, including steps to reproduce it.</li>
         <li><strong>Expected Response Time:</strong> We will acknowledge receipt of your report within 48 hours and provide a more detailed response, including an estimated timeline for fixing the issue, within 7 days.</li>
         <li><strong>Disclosure Policy:</strong> We kindly ask that you do not disclose the vulnerability publicly until we have had an opportunity to address it. We will work with you to ensure that the vulnerability is properly patched before any public disclosure.</li>
     </ol>
