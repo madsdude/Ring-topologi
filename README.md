@@ -25,7 +25,6 @@
    <h3>3. Core Switches:</h3>
     <ul>
         <li><strong>Switch:</strong> Acts as a central switch, connected to routers R1 (<code>Gi0/0</code>) and R2 (<code>Gi0/1</code>). This switch connects to various network segments to distribute traffic across the network.</li>
-        <li><strong>Node7:</strong> This switch is connected to the central switch (<code>Gi1/2</code>) and extends the network further into the ring topology.</li>
     </ul>
 
    <h3>4. Distribution Switches (S-D1, S-D2, S-D3):</h3>
