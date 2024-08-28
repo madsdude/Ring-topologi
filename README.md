@@ -38,11 +38,6 @@
         <li>These switches (<code>SW-LAN10</code>, <code>SW-LAN13</code>, <code>SW-LAN14</code>) are connected in a loop to the distribution switches. They form part of the ring, ensuring that even if one connection is broken, the network can reroute traffic through another path.</li>
     </ul>
 
-  <h3>6. Linux Server:</h3>
-    <ul>
-        <li>A Linux server is connected to the network via <code>Node7</code>. This server is likely used for network management, monitoring, or other critical services.</li>
-    </ul>
-
   <h2>Topology Overview:</h2>
     <ul>
         <li><strong>Ring Topology:</strong> The network is set up to form a ring between the switches (<code>SW-LAN10</code>, <code>SW-LAN13</code>, and <code>SW-LAN14</code>), which provides redundancy. If one link fails, traffic can be rerouted in the opposite direction to maintain network connectivity.</li>
