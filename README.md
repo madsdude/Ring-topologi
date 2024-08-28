@@ -1,3 +1,5 @@
+[![License](https://storage.googleapis.com/blogs-images/ciscoblogs/1/2024/08/Cisco_Logo_no_TM_Sky_Blue-RGB-1200x675-1.jpg)](https://www.cisco.com/c/da_dk/index.html)
+
 # Ring-topologi
 
 ![image](https://github.com/user-attachments/assets/64cbd9e3-ed23-429d-a2ee-135d82b9f7ea)
