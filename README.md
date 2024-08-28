@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/64cbd9e3-ed23-429d-a2ee-135d82b9f7ea)
 
 
-  h1>Network Diagram Explanation: 4-Section Ring Topology</h1>
+  <h1>Network Diagram Explanation: 4-Section Ring Topology</h1>
 
   <p>The diagram illustrates the initial setup for a 4-section ring topology network. This topology is designed for enhanced redundancy and reliability, ensuring continuous network operation even if one link in the ring fails.</p>
 
