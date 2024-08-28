@@ -1,5 +1,3 @@
-https://img.shields.io/badge/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F14%2FCisco_logo.jpg
-
 
 # Ring-topologi
 
